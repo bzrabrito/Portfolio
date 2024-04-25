@@ -19,4 +19,4 @@ $IMAGE$
 
 ## A Dashboard for a Executive Overview for sales by segment, state, profit ratio, on a company in the USA
 https://public.tableau.com/shared/3BH98PJD2?:display_count=n&:origin=viz_share_link
-$IMAGE$
+![Visualization 4](Executive Overview.pdf)
